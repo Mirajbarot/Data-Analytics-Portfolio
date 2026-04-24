@@ -30,5 +30,5 @@ Currently seeking entry level data analyst or business analyst roles.
 - Microsoft Excel
 
 ## Contact
-- LinkedIn: linkedin.com/in/mirajbarot
+- LinkedIn: linkedin.com/in/mirajbarot/
 - Email: mirajbarot28@gmail.com
